@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>home.png</file>
+    <file>close.png</file>
+    <file>menus.png</file>
+    <file>drop2.png</file>
+    <file>dropdown2.png</file>
+    <file>analysis.png</file>
+    <file>drop.png</file>
+    <file>view.png</file>
+    <file>Refresh-icon.png</file>
+    <file>dropdown.png</file>
+    <file>Actions-document-preview-icon.png</file>
+    <file>Actions-go-next-icon.png</file>
+    <file>bg.jpg</file>
+    <file>Actions-go-previous-icon.png</file>
+    <file>add-icon.png</file>
+    <file>Back-icon.png</file>
+    <file>bsearch.png</file>
+    <file>Emblems-emblem-important-icon.png</file>
+    <file>Letter-B-lg-icon.png</file>
+    <file>Letter-D-lg-icon.png</file>
+    <file>math-add-icon.png</file>
+    <file>next-icon.png</file>
+    <file>admin.png</file>
+    <file>bsearch.png</file>
+    <file>save.png</file>
+    <file>Settings-icon.png</file>
+    <file>Actions-document-preview-icon.png</file>
+  </qresource>
+</RCC>
